@@ -9,8 +9,7 @@ This project is dedicated to the end-to-end testing of the **OrangeHRM Demo Webs
 - **Team Members:**
   - 👨‍💼 **Atul Pal** (Team Lead)
   - 👨‍💼 **Paraskumar Zumbarlal Sanghvi** (Manual Testing Lead)
-  - 🤖 **Ramanand K S** (Automation Testing Specialist)
-
+    
 ---
 
 ## 📑 Key Deliverables
@@ -93,6 +92,7 @@ This project is dedicated to the end-to-end testing of the **OrangeHRM Demo Webs
   - Test Plan 📝.
   - RTM ✅.
   - Test Execution Reports 📊.
+  - Management.
 
   ### 👨‍💼 Paraskumar Zumbarlal Sanghvi
 - Led manual testing efforts.
@@ -101,11 +101,6 @@ This project is dedicated to the end-to-end testing of the **OrangeHRM Demo Webs
   - Test Cases ✅.
   - Bug Reports 🐞 
   - Mind Map 📊.
-
-### 🤖 Ramanand K S
-- Spearheaded automation testing with Selenium.
-- Developed scripts for core functionalities.
-- Generated automated reports using Extent Reports 📃.
 
 ---
 
