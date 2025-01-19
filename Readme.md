@@ -2,6 +2,9 @@
 
 This project is dedicated to the end-to-end testing of the **OrangeHRM Demo Website**. It showcases a detailed and systematic approach to both manual and automated testing, ensuring all functionalities and features of the website are thoroughly verified. 🚀
 
+![image](https://github.com/user-attachments/assets/44b79589-aed6-4a39-8dee-9c582476b10e)
+
+
 ---
 
 ## 🌐 Project Overview
@@ -87,7 +90,7 @@ This project is dedicated to the end-to-end testing of the **OrangeHRM Demo Webs
 ## 👥 Contributions
 
 ### 👨‍💼 Atul Pal
-- Led manual testing efforts.
+- Led manual and automation testing efforts.
 - Authored:
   - Test Plan 📝.
   - RTM ✅.
@@ -96,7 +99,7 @@ This project is dedicated to the end-to-end testing of the **OrangeHRM Demo Webs
   - Automation.
 
   ### 👨‍💼 Paraskumar Zumbarlal Sanghvi
-- Led manual testing efforts.
+- Led manual and automation testing efforts.
 - Authored:
   - Test Scenarious 📝.
   - Test Cases ✅.
