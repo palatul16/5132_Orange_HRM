@@ -126,3 +126,18 @@ This project demonstrates a robust and collaborative approach to testing the **O
 - Increased reliability of the OrangeHRM system. ✅
 
 
+## 📧 Contact
+For questions or feedback, reach out at:</br>
+Email: atulpaldelhi@gmail.com </br>
+Linkedin: https://www.linkedin.com/in/atul-pal-451b13251/</br>
+GitHub: [Atul Pal](https://github.com/palatul16) </br>
+
+Email: paras.kkwagh@gmail.com </br>
+Linkedin: https://www.linkedin.com/in/paras-sanghavi-b48a721b5/ </br>
+GitHub: [Paraskumar Zumbarlal Sanghvi](https://github.com/Parassanghavi1008) </br>
+
+
+
+
+
+
