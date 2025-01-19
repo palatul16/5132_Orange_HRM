@@ -93,6 +93,7 @@ This project is dedicated to the end-to-end testing of the **OrangeHRM Demo Webs
   - RTM ✅.
   - Test Execution Reports 📊.
   - Management.
+  - Automation.
 
   ### 👨‍💼 Paraskumar Zumbarlal Sanghvi
 - Led manual testing efforts.
@@ -101,6 +102,7 @@ This project is dedicated to the end-to-end testing of the **OrangeHRM Demo Webs
   - Test Cases ✅.
   - Bug Reports 🐞 
   - Mind Map 📊.
+  - Automation.
 
 ---
 
