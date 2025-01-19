@@ -7,7 +7,7 @@ This project is dedicated to the end-to-end testing of the **OrangeHRM Demo Webs
 ## 🌐 Project Overview
 - **Website Under Test:** [OrangeHRM Demo](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 - **Team Members:**
-  - 👨‍💼 **Atul Pal** (Manual Testing Lead)
+  - 👨‍💼 **Atul Pal** (Team Lead)
   - 👨‍💼 **Paraskumar Zumbarlal Sanghvi** (Manual Testing Lead)
   - 🤖 **Ramanand K S** (Automation Testing Specialist)
 
